@@ -1,8 +1,4 @@
-package com.github.chandanv89.loganalyser.utilities;
-
-import com.github.chandanv89.loganalyser.model.Event;
-import com.github.chandanv89.loganalyser.model.EventType;
-import com.github.chandanv89.loganalyser.model.State;
+package com.github.Vivek3004.loganalyser.utilities;
 
 import java.io.File;
 import java.io.FileOutputStream;
@@ -10,6 +6,10 @@ import java.io.IOException;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
 import java.util.List;
+
+import com.github.Vivek3004.loganalyser.model.Event;
+import com.github.Vivek3004.loganalyser.model.EventType;
+import com.github.Vivek3004.loganalyser.model.State;
 
 public class LogFileGenerator {
 

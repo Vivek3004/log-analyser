@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.conf;
+package com.github.Vivek3004.loganalyser.conf;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

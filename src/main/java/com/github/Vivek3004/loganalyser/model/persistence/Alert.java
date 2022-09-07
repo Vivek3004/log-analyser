@@ -1,8 +1,9 @@
-package com.github.chandanv89.loganalyser.model.persistence;
+package com.github.Vivek3004.loganalyser.model.persistence;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.github.chandanv89.loganalyser.model.Event;
-import com.github.chandanv89.loganalyser.model.EventType;
+import com.github.Vivek3004.loganalyser.model.Event;
+import com.github.Vivek3004.loganalyser.model.EventType;
+
 import org.apache.commons.lang3.builder.ToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
 

@@ -1,7 +1,9 @@
-package com.github.chandanv89.loganalyser.repository;
+package com.github.Vivek3004.loganalyser.repository;
 
-import com.github.chandanv89.loganalyser.model.EventType;
-import com.github.chandanv89.loganalyser.model.persistence.Alert;
+import com.github.Vivek3004.loganalyser.model.EventType;
+import com.github.Vivek3004.loganalyser.model.persistence.Alert;
+import com.github.Vivek3004.loganalyser.repository.AlertRepository;
+
 import org.junit.Ignore;
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;

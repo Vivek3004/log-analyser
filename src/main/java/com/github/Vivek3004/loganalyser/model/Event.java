@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.model;
+package com.github.Vivek3004.loganalyser.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.apache.commons.lang3.builder.ToStringBuilder;

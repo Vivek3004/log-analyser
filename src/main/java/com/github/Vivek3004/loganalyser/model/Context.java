@@ -1,4 +1,4 @@
-package com.github.chandanv89.loganalyser.model;
+package com.github.Vivek3004.loganalyser.model;
 
 public class Context {
     private static Context INSTANCE;

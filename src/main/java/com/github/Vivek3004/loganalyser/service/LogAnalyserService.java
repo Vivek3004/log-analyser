@@ -1,9 +1,10 @@
-package com.github.chandanv89.loganalyser.service;
+package com.github.Vivek3004.loganalyser.service;
 
-import com.github.chandanv89.loganalyser.conf.ApplicationData;
-import com.github.chandanv89.loganalyser.manager.LogAnalyserManager;
-import com.github.chandanv89.loganalyser.model.Context;
-import com.github.chandanv89.loganalyser.validator.LogAnalyserValidator;
+import com.github.Vivek3004.loganalyser.conf.ApplicationData;
+import com.github.Vivek3004.loganalyser.manager.LogAnalyserManager;
+import com.github.Vivek3004.loganalyser.model.Context;
+import com.github.Vivek3004.loganalyser.validator.LogAnalyserValidator;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,13 +1,14 @@
-package com.github.chandanv89.loganalyser.manager;
+package com.github.Vivek3004.loganalyser.manager;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.github.chandanv89.loganalyser.conf.ApplicationData;
-import com.github.chandanv89.loganalyser.model.Context;
-import com.github.chandanv89.loganalyser.model.Event;
-import com.github.chandanv89.loganalyser.model.State;
-import com.github.chandanv89.loganalyser.model.persistence.Alert;
-import com.github.chandanv89.loganalyser.repository.AlertRepository;
+import com.github.Vivek3004.loganalyser.conf.ApplicationData;
+import com.github.Vivek3004.loganalyser.model.Context;
+import com.github.Vivek3004.loganalyser.model.Event;
+import com.github.Vivek3004.loganalyser.model.State;
+import com.github.Vivek3004.loganalyser.model.persistence.Alert;
+import com.github.Vivek3004.loganalyser.repository.AlertRepository;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.commons.io.LineIterator;
 import org.slf4j.Logger;

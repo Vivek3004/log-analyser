@@ -1,10 +1,11 @@
-package com.github.chandanv89.loganalyser.validator;
+package com.github.Vivek3004.loganalyser.validator;
 
-import com.github.chandanv89.loganalyser.model.Context;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.stereotype.Component;
+
+import com.github.Vivek3004.loganalyser.model.Context;
 
 import java.io.File;
 import java.io.FileNotFoundException;
